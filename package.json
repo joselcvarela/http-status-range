@@ -1,0 +1,22 @@
+{
+  "name": "http-status-range",
+  "version": "1.0.0",
+  "description": "Check if HTTP status code is within range or is a specific code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joselcvarela/http-status-range.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "code",
+    "range",
+    "codes"
+  ],
+  "author": "Jose Varela",
+  "license": "ISC"
+}
